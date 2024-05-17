@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-12T16:38:29 ICT" name="Default suite" finished-at="2024-04-12T16:39:02 ICT" duration-ms="33533">
+    <groups>
+    </groups>
+    <test started-at="2024-04-12T16:38:29 ICT" name="Default test" finished-at="2024-04-12T16:39:02 ICT" duration-ms="33533">
+      <class name="testAP.ap_Login">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testAP.ap_Login@1bd4fdd]" started-at="2024-04-12T16:38:29 ICT" name="beforeTest" finished-at="2024-04-12T16:38:41 ICT" duration-ms="12581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="runWeb()[pri:1, instance:testAP.ap_Login@1bd4fdd]" started-at="2024-04-12T16:38:41 ICT" name="runWeb" finished-at="2024-04-12T16:38:46 ICT" duration-ms="4988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runWeb -->
+        <test-method signature="click_send_Web()[pri:2, instance:testAP.ap_Login@1bd4fdd]" started-at="2024-04-12T16:38:46 ICT" name="click_send_Web" finished-at="2024-04-12T16:39:02 ICT" duration-ms="15872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_send_Web -->
+      </class> <!-- testAP.ap_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

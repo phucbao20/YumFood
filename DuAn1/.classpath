@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-19">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="DuAn1/src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Library/SendMail/javax.activation-1.1.0.v201105071233.jar"/>
+	<classpathentry kind="lib" path="D:/Library/SendMail/javax.mail.jar"/>
+	<classpathentry kind="lib" path="D:/Library/Random/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/Library/PDF/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="lib" path="D:/Library/PDF/jfreechart-1.5.4.jar"/>
+	<classpathentry kind="lib" path="D:/Library/MakeColor/KControls-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Library/JDBC/enu/mssql-jdbc-12.2.0.jre11.jar"/>
+	<classpathentry kind="lib" path="D:/Library/JDBC/enu/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="D:/Library/Find_Date/LGoodDatePicker-11.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Library/ApachePOI_Excel/AbsoluteLayout-RELEASE180.jar"/>
+	<classpathentry kind="lib" path="D:/Library/ApachePOI_Excel/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Library/ApachePOI_Excel/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Library/ApachePOI_Excel/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Library/ApachePOI_Excel/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Library/ApachePOI_Excel/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
